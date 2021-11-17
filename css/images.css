@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    height: 100%;
+    width: 100%;
+}
+#img{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 5rem auto;
+    height: 600px;
+    overflow: hidden;
+    width: 75%;
+
+}
+.box{
+    align-items: center;
+    display: flex;
+    background-color: coral;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+
+
+}
